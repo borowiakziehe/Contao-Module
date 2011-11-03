@@ -1,0 +1,18 @@
+<krpano showerrors='false' version='1.0.8'>
+
+  <view fovtype='DFOV' fov='90' fovmin='60' fovmax='120' hlookat='180' vlookat='0' />
+  <control touchfriction='0.89' zoomtocursor='true' />
+
+  <image type='CUBESTRIP'>
+    <cubestrip url='../../../tl_files/media/bilder/panorama.ppan' />
+    <left strip='1' rotate='0' flip='' />
+    <front strip='2' rotate='0' flip='' />
+    <right strip='3' rotate='0' flip='' />
+    <back strip='4' rotate='0' flip='' />
+    <up strip='5' rotate='90' flip='' />
+    <down strip='6' rotate='-90' flip='' />
+  </image>
+
+  <tstamp>1320328077</tstamp>
+
+</krpano>
