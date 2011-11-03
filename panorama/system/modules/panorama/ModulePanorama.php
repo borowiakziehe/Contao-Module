@@ -26,7 +26,7 @@
  * @license    GNU 
  * @filesource
  */
-/*testfile*/
+
 class ModulePanorama extends ContentElement
 {
 	protected $strTemplate = 'mod_panorama';
